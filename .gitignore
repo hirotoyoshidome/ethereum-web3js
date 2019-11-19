@@ -1,2 +1,3 @@
 /ethernet/*
 !/ethernet/.gitkeep
+/node_modules

@@ -1,0 +1,22 @@
+{
+  "name": "ethereum-web3js",
+  "version": "1.0.0",
+  "description": "## install * geth * nodejs * web3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirotoyoshidome/ethereum-web3js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirotoyoshidome/ethereum-web3js/issues"
+  },
+  "homepage": "https://github.com/hirotoyoshidome/ethereum-web3js#readme",
+  "dependencies": {
+    "web3": "^1.2.4"
+  }
+}
